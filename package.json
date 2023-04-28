@@ -2,7 +2,6 @@
   "name": "add-to-calendar-button",
   "version": "2.2.5",
   "engines": {
-    "node": ">=16.18.1",
     "npm": ">=8.19.2"
   },
   "description": "A convenient JavaScript snippet, which lets you create beautiful buttons, where people can add events to their calendars.",
